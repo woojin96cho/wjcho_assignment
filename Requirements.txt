@@ -1,0 +1,4 @@
+Requirements
+ - Anaconda Python(https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe)
+ - Pandas Library 1.1.3(https://anaconda.org/anaconda/pandas/1.1.3/download/win-64/pandas-1.1.3-py38ha925a31_0.tar.bz2)
+ - Internet Connection
